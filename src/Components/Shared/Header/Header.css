@@ -1,0 +1,26 @@
+.logo {
+    height: 30px;
+}
+
+.toggle {
+    background-color: red;
+    color: white;
+}
+
+.special {
+    background-color: rgb(247, 25, 25);
+    border-radius: 10px;
+}
+
+.special:hover {
+    color: black;
+    background-color: rgb(216, 96, 16);
+}
+
+.menu-list a {
+    color: black;
+}
+
+.navbar-toggler-icon {
+    color: white;
+}
